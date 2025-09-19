@@ -1,0 +1,19 @@
+
+{
+  "name": "Acres - Quiz Master",
+  "short_name": "Acres",
+  "description": "Test your knowledge with AI-generated questions on any topic",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e1b4b",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "placeholder.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
